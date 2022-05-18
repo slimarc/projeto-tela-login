@@ -1,0 +1,39 @@
+@media only screen and (max-width: 3840px){
+    .login-principal{
+        width: 100%;
+        height: 100%;
+        overflow: hidden
+    }
+    .login-esquerda h1{
+        margin-bottom: -2vw;
+    }
+}
+
+@media only screen and (max-width: 950px){
+    .card-login{
+        width: 85%;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .login-principal{
+        flex-direction: column;
+    }
+    .login-esquerda h1{
+        display: none;
+    }
+    .login-esquerda{
+        width: 100%;
+        height: auto;
+    }
+    .login-direita{
+        width: 100%;
+        height: auto;
+    }
+    .animacao{
+        width: 50vw;
+    }
+    .card-login{
+        width: 90%;
+    }
+}
