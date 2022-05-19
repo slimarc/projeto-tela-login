@@ -8,8 +8,8 @@
 
 ## Tecnologias sendo utilizas:
 
-.HTML
-.CSS
+* HTML
+* CSS
 
 ## Visualize o projeto 🔗:
   
